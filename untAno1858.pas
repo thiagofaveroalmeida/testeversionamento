@@ -39,6 +39,7 @@ type
     opdBancoDeDados: TOpenDialog;
     Label6: TLabel;
     edNome: TEdit;
+    DateTimePicker1: TDateTimePicker;
     procedure FormCreate(Sender: TObject);
     procedure BitBtn2Click(Sender: TObject);
     procedure BitBtn3Click(Sender: TObject);
@@ -173,6 +174,7 @@ begin
   edCaminhoBanco.Text := getCaminhoBDE;
   edUsuario.Text:= EmptyStr;
   edSenha.Text:= EmptyStr;
+  DateTimePicker1.DateTime := now;
 end;
 
 function TForm1.getCaminhoBDE: String;

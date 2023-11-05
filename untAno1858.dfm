@@ -271,6 +271,15 @@ object Form1: TForm1
       TabOrder = 3
       OnExit = edMatriculaExit
     end
+    object DateTimePicker1: TDateTimePicker
+      Left = 136
+      Top = 65
+      Width = 186
+      Height = 21
+      Date = 45235.855452476860000000
+      Time = 45235.855452476860000000
+      TabOrder = 4
+    end
   end
   object Database1: TDatabase
     AliasName = 'Ponto'
