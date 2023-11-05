@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/08/08 12:15:56.906.pas,C:\Documents and Settings\Windows XP\Meus documentos\RAD Studio\Projects\Unit1.pas=C:\Projeto\Ponto\Diversos\CriarVisualizacao\UntCriaVisualizacao.pas</Transaction>
+    <Transaction>2007/08/08 12:15:56.906.dfm,C:\Documents and Settings\Windows XP\Meus documentos\RAD Studio\Projects\Unit1.dfm=C:\Projeto\Ponto\Diversos\CriarVisualizacao\UntCriaVisualizacao.dfm</Transaction>
+    <Transaction>2007/08/08 12:16:01.875.dproj,C:\Documents and Settings\Windows XP\Meus documentos\RAD Studio\Projects\Project1.dproj=C:\Projeto\Ponto\Diversos\CriarVisualizacao\CriaVisualizacao.dproj</Transaction>
+    <Transaction>2008/10/31 10:13:16.796.dproj,C:\Projeto\Auxiliares\Ano1858\CriaVisualizacao.dproj=C:\Projeto\Auxiliares\Ano1858\Ano1858.dproj</Transaction>
+    <Transaction>2008/10/31 10:13:36.312.pas,C:\Projeto\Auxiliares\Ano1858\UntCriaVisualizacao.pas=C:\Projeto\Auxiliares\Ano1858\untAno1858.pas</Transaction>
+    <Transaction>2008/10/31 10:13:36.312.dfm,C:\Projeto\Auxiliares\Ano1858\UntCriaVisualizacao.dfm=C:\Projeto\Auxiliares\Ano1858\untAno1858.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
