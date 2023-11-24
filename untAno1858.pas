@@ -193,6 +193,7 @@ begin
      edCaminhoBanco.Text:= 'C:\Zeus\Ponto.gdb';
      Application.ProcessMessages;
      edCaminhoBanco.SetFocus;
+     ShowMessage('Teste');
      Exit;
    end;
 
